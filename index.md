@@ -4,11 +4,11 @@
 
 #### Deaf Person Voice/speech to text
 
-*Audio Classification and Processing
-*Image Processing
-*Spectrogram
-*SpecAugment
-*Deep Learning model
+* Audio Classification and Processing
+* Image Processing
+* Spectrogram
+* SpecAugment
+* Deep Learning model
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 
