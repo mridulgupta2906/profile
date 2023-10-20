@@ -1,6 +1,28 @@
-title: Minimal theme
+# title: Minimal theme
+# logo: /assets/img/1684833548001.jfif
+# description: Minimal is a theme for GitHub Pages.
+# show_downloads: true
+# google_analytics:
+# theme: jekyll-theme-minimal
+
+title: <p align="center"> Mridul Gupta </p>
 logo: /assets/img/1684833548001.jfif
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/mridul-gupta-2906/">LinkedIn</a> |
+  <a href="https://github.com/mridulgupta2906">GitHub</a>
+  
+  <br>   
+  Individual with enthusiasm in field of
+  Computer Science, Space and Technology .
+  Always ready for trying new things and
+  solving problems related to real world.
+  Currently looking for full-time opportunities in field of Data Science.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
