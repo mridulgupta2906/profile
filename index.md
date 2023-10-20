@@ -4,13 +4,13 @@
 
 #### Deaf Person Voice/speech to text
 
+[![View on GitHub](https://img.shields.io/badge/Google Drive-Code on Drive-yellow?logo=GitHub)](https://drive.google.com/drive/folders/1rfCQD8oEU2zYtAWW2xdPvkfgtaFnhpex?usp=sharing)
+
 * Audio Classification and Processing
 * Image Processing
 * Spectrogram
 * SpecAugment
 * Deep Learning model
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://drive.google.com/drive/folders/1rfCQD8oEU2zYtAWW2xdPvkfgtaFnhpex?usp=sharing)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
