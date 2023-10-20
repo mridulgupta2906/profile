@@ -33,7 +33,13 @@
 * Multiple noise - multiple detector data analysis on our model
 * CNN, KNN and SVM model deployment analysis
 
-<center><img src="images/financial_modeling.jpg"/></center>
+---
+#### Rumpy Dumpy Academy
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mridulgupta2906/knaman)        [![View on GitHub](https://img.shields.io/badge/Live-Web_App_Link-red?logo=GitHub)](https://rumpydumpy.vercel.app/)
+
+
+<center><img src="rumpy-dumpy-school.png" /></center>
 
 ---
 
