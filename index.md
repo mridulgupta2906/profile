@@ -39,12 +39,19 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mridulgupta2906/knaman)        [![View on GitHub](https://img.shields.io/badge/Live-Web_App_Link-red?logo=GitHub)](https://rumpydumpy.vercel.app/)
 
 
-<center><img src="rumpy-dumpy-school.png" /></center>
+<center><img src="/rumpy-dumpy-school.png"/></center>
 
 ---
 
 
-# Education and Certifications
+# Certifications
 
-## P1
-#### PP1
+*  IUCAA : Exoplanets Course on Planets Orbiting Stars Other Than the Sun (02/2023)
+*  GWOSC : Gravitational Wave Open Data Workshop #6 (05/2023 )
+*  IIT Bombay : Utkraanti National Level Championship (09/2019)
+*  Udemy : Image Recognition Using CNN By Start-Tech Academy
+*  Udemy : Linear Regression and Logistic Regression By Start-Tech Academy
+*  Coding Ninjas : Innovative India Coding Championship Round - 2 ( 29/07/2022)
+*  Coding Ninjas : Innovative India Coding Championship Round - 1 ( 20/07/2022)
+*  RE.T3CH 2.0 Hackathon [ IIPS, Devi Ahilya Vishwavidyalaya ] (02/2019)
+*  RE.T3CH Hackathon [ IIPS, Devi Ahilya Vishwavidyalaya ] (10/2018)
