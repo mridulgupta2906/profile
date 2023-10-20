@@ -36,12 +36,12 @@
 ---
 #### MG Security
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mridulgupta2906/knaman)        [![View on GitHub](https://img.shields.io/badge/Live-Web_App_Link-red?logo=GitHub)](https://rumpydumpy.vercel.app/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mridulgupta2906/knaman)        
 
 ---
 #### Rumpy Dumpy Academy
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mridulgupta2906/MGSecurity)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mridulgupta2906/MGSecurity)    [![View on GitHub](https://img.shields.io/badge/Live-Web_App_Link-red?logo=GitHub)](https://rumpydumpy.vercel.app/)
 
 ---
 
