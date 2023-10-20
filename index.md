@@ -4,7 +4,7 @@
 
 #### Deaf Person Voice/speech to text
 
-[![View on Google Drive](https://github.com/mridulgupta2906/profile/blob/master/assets/img/Google-Drive-logo.png)](https://drive.google.com/drive/folders/1rfCQD8oEU2zYtAWW2xdPvkfgtaFnhpex?usp=sharing)
+[![View on Google Drive](https://raw.githubusercontent.com/mridulgupta2906/profile/master/assets/img/Google-Drive-logo.png)](https://drive.google.com/drive/folders/1rfCQD8oEU2zYtAWW2xdPvkfgtaFnhpex?usp=sharing)
 
 * Audio Classification and Processing
 * Image Processing
