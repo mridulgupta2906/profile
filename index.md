@@ -36,7 +36,16 @@
 ---
 #### MG Security
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mridulgupta2906/knaman)        
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mridulgupta2906/knaman)  
+
+*  Traditional Image Processing
+*  Image to Text using Tesseract OCR
+*  Database for CRUD for all the residents and for logs of vehicles
+*  Server hosted to deplay database with user-interactive-end
+  
+The whole purpose of making this project was to provide a automated security record of vehicles movement in-out of colony to colony
+residents with a easy to use and maintain , and at very low cost security system. User also gets feature of knowing vechile owner info
+irrespectice of he belonging to that respective colony.
 
 ---
 #### Rumpy Dumpy Academy
